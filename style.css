@@ -305,6 +305,14 @@ input[type="radio"] {
     .img-col {
         flex-basis: 100%;
     }
+    
+    .text-col {
+        order: 1;
+    }
+
+    .img-col {
+        order: 2;
+    }
 
     .features h2 {
         font-size: 30px;
